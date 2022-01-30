@@ -1,4 +1,7 @@
-1-node-farm/.DS_Store
 .DS_Store
-1-node-farm/node_modules
+1-node-farm/final
 1-node-farm/starter/node_modules
+2-how-node-works/final
+3-asynchronous-JS/final
+3-asynchronous-JS/starter/node_modules
+3-asynchronous-JS/starter/package-lock.json
